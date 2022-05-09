@@ -1,8 +1,8 @@
-
+import NavBar from "./components/NavBar";
 
 function App() {
   return (
-    <h1>Pagina PRINCIPAL</h1>
+    <NavBar/>
   );
 }
 
